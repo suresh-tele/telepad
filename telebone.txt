@@ -1,2 +1,1 @@
-This is just sample to test
-second try to check
+This is to test my first commit
